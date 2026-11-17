@@ -69,7 +69,7 @@ Para visualizar o site:
 
 ## 📞 Informações de Contato da Empresa
 
-- **Telefone Comercial:** (21) 3451-5577
+
 - **WhatsApp Oficial:** (21) 96423-5463
 - **E-mail:** insetcarioca@gmail.com
 - **Endereço:** Rua Praia de Inhaúma 73, Bonsucesso - Rio de Janeiro/RJ - CEP: 21042-130
