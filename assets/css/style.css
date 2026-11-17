@@ -626,6 +626,7 @@ ul {
   height: 100%;
   object-fit: cover;
   transition: transform 0.5s ease;
+  filter: saturate(1.4) brightness(1.05);
 }
 
 .service-card:hover .service-card-img img {
